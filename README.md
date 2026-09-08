@@ -1,0 +1,1 @@
+# Foobar2000-Full-Version
