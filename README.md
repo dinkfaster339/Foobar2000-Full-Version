@@ -240,3 +240,6 @@ This repository serves as the official landing page for foobar2000. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of foobar2000 today!**
+
+---
+**Last updated:** 2026-09-08 20:58:52 UTC
