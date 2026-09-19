@@ -242,4 +242,4 @@ This repository serves as the official landing page for foobar2000. The software
 **Get the most recent version of foobar2000 today!**
 
 ---
-**Last updated:** 2026-09-19 10:40:42 UTC
+**Last updated:** 2026-09-19 14:16:17 UTC
